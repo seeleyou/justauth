@@ -1,7 +1,7 @@
 {
   "name": "seeleyou/justauth-php",
   "description": "library of third-party authorized login",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "license": "MIT",
   "authors": [
     {
